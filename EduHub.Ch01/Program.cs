@@ -45,6 +45,8 @@ namespace EduHub.Ch01
 
                 // 6. In bao cao
                 Console.WriteLine("===== EDUHUB CONSOLE DEMO =====");
+                Console.WriteLine("He thong quan ly dang ky khoa hoc EduHub");
+                Console.WriteLine("Demo cac domain class va kiem tra du lieu.");
 
                 Console.WriteLine("\n--- THONG TIN SINH VIEN ---");
                 Console.WriteLine($"Ma sinh vien: {student.Id}");
